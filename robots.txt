@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://naliant.github.io/sitemap.html.gz
+Sitemap: https://naliant.github.io/app/sitemap.html.gz
+Sitemap: https://naliant.github.io/assets/sitemap.html.gz
+Sitemap: https://naliant.github.io/css/sitemap.html.gz
+Sitemap: https://naliant.github.io/includes/sitemap.html.gz
+Sitemap: https://naliant.github.io/item/sitemap.html.gz
+Sitemap: https://naliant.github.io/src/sitemap.html.gz
